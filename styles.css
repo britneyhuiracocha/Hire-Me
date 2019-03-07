@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+    color:blue;
+}
+h2{
+    border:dotted;
+    color:blue;
+    background-color:white;
+}
+
+img{
+    width:500px;
+    border-radius:200px;
+    border:green dotted;
+    margin:auto;
+}
+body{
+    text-align:center;
+    background-color:lightblue;
+   font-family: 'Chakra Petch', sans-serif;
+}
